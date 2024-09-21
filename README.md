@@ -1,3 +1,1 @@
-# SaveAlot.github.io
-
-https://jeongjieon.github.io/SaveAlot.github.io/
+Using verison 2020 modle.
